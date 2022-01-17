@@ -35,7 +35,7 @@ If you would then like to search for information using a different category, you
 
 The ability to search by more than one category also exists.  In the following example both a date and a state were entered and the following results were produced:
 
-![date_and_state.PNG](https://github.com/mathur-nikita/UFOs/blob/main/screenshots/date_and_state_filter.PNG)
+![multiple_filters.PNG](https://github.com/mathur-nikita/UFOs/blob/main/screenshots/multiple_filters.PNG)
 
 
 ## Summary
