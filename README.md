@@ -40,6 +40,15 @@ The ability to search by more than one category also exists.  In the following e
 
 ## Summary
 
-The summary addresses one drawback of this webpage
+### Drawbacks
+1) One of the drawbacks of this webpage is that while the user can search for multple criteria by type, the user can't search for multiple criteria of the same type.  For example if the user wanted to search for multiple cities at once or search within a range of dates, there is currently no way of doing that.
 
-The summary addresses two additional recommendations for further development
+2) Another drawback is that the data presented in the table is not uniform.  There are fields that need cleaning so the data makes sense.  For example in the "duration" column some times are listed as "min" while some are listed as "minutes", and at least one item doesn't have a unit of time mentioned.
+
+
+### Recommendations for any future updates to the webpage:
+1) A suggestion is to allow for multiple searches across the same category type.  For example, allow the user to enter a list of multiple states to return sighting information across those states instead of only one state at a time.
+
+2) For the date field, it would be nice to include the option to enter a range of dates instead of a single date.  This is different from the previous suggestion as the user isn't listing out each date to search individually.  The webpage would be able to take a start date and an end date as a range and return results of all sightings in that range.  
+
+3) Another suggestion would be to include the remaining column types as search criteria (duration, comments).  The user should have the ability to search through all of the findings based on any bit of information they can go on.
