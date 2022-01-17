@@ -14,6 +14,8 @@ Dana would like to have the table of findings have filters for the following inf
 ## Resources 
 
  - app.js, data.js
+ - nasa.jpg
+ - style.css
 
 ## Results
 
